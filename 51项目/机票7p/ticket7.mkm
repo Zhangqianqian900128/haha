@@ -1,0 +1,28 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="585" y="326" color="16711680" length="208" direction="3"/>
+    <LengthMark x="631" y="446" color="16711680" length="35" direction="12"/>
+    <LengthMark x="842" y="535" color="16711680" length="103" direction="3"/>
+    <LengthMark x="616" y="535" color="16711680" length="20" direction="3"/>
+    <LengthMark x="519" y="537" color="16711680" length="18" direction="12"/>
+    <LengthMark x="1291" y="327" color="16711680" length="37" direction="3"/>
+    <LengthMark x="1094" y="335" color="16711680" length="383" direction="12"/>
+    <LengthMark x="1094" y="360" color="16711680" length="20" direction="12"/>
+    <LengthMark x="1113" y="518" color="16711680" length="343" direction="12"/>
+    <LengthMark x="1350" y="364" color="16711680" length="25" direction="3"/>
+    <LengthMark x="1094" y="450" color="16711680" length="19" direction="12"/>
+    <LengthMark x="1456.75" y="479" color="16711680" length="20" direction="12"/>
+    <LengthMark x="1313" y="515.75" color="16711680" length="20" direction="3"/>
+    <LengthMark x="1229" y="389" color="16711680" length="126" direction="3"/>
+    <LengthMark x="1093" y="587" color="16711680" length="385" direction="12"/>
+    <LengthMark x="1276" y="388" color="16711680" length="40" direction="3"/>
+    <LengthMark x="1355" y="440" color="16711680" length="12" direction="3"/>
+    <LengthMark x="1267" y="480" color="16711680" length="35" direction="12"/>
+    <LengthMark x="1392" y="439" color="16711680" length="58" direction="12"/>
+    <LengthMark x="1294" y="535" color="16711680" length="60" direction="3"/>
+    <LengthMark x="1222" y="548" color="16711680" length="22" direction="3"/>
+    <LengthMark x="1253" y="546" color="16711680" length="14" direction="12"/>
+    <LengthMark x="1230" y="583" color="16711680" length="22" direction="3"/>
+    <LengthMark x="1252" y="604.75" color="16711680" length="32" direction="3"/>
+  </Marks>
+</MKM>
